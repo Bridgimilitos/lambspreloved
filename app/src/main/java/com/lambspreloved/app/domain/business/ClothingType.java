@@ -1,0 +1,26 @@
+package com.lambspreloved.app.domain.business;
+
+enum ClothingType 
+{
+	TROUSERS,
+	JEANS,
+	SHORTS,
+	MINI_SKIRT,
+	MIDI_SKIRT,
+	MAXI_SKIRT,
+	MINI_DRESS,
+	MIDI_DRESS,
+	MAXI_DRESS,
+	JUMPSUIT,
+	PLAYSUIT,
+	COAT,
+	BLAZER,
+	JUMPER, 
+	CARDIGAN,
+	TOP,
+	TRAINERS,
+	SANDALS,
+	BOOTS,
+	HEELS,
+	ACCESSORIES
+}

@@ -1,0 +1,8 @@
+package com.lambspreloved.app.domain.business;
+
+enum Size 
+{
+	XS, SMALL, MEDIUM, LARGE, XL, XXL,
+	SIX, EIGHT, TEN, TWELVE, FOURTEEN, SIXTEEN, EIGHTEEN,
+	TWENTY_SIX, TWENTY_EIGHT, THIRTY, THIRTY_TWO, THIRTY_FOUR
+}
