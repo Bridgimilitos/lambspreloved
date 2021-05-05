@@ -25,13 +25,11 @@ public class Item
 	private String brand;
 	private BigDecimal weight;
 	
-	public Item(String description, BigDecimal cost, String sourcedFrom) 
+	public Item(String description, BigDecimal cost, String sourcedFrom)
 	{
 		this.description = description;
 		this.cost = cost;
 		this.dateBought = LocalDate.now();
 		this.sourcedFrom = sourcedFrom;
 	}
-
-	public addItem()
 }
